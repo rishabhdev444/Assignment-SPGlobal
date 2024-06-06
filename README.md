@@ -39,10 +39,11 @@ This project implements a service for keeping track of the last price for financ
 - **Mockito** for mocking in tests
 - **Maven** for dependency management
 
+
 ### Project Structure
 
-![projectStructure](https://github.com/rishabhdev444/Assignment-SPGlobal/assets/53978955/be1e86b2-67f7-4b76-9190-ff9047905720)
 
+![Screenshot 2024-06-06 205028](https://github.com/rishabhdev444/Assignment-SPGlobal/assets/53978955/c09e6721-1579-425c-8776-547a9054f751)
 
 
 ### Service Endpoints and Methods
