@@ -41,34 +41,7 @@ This project implements a service for keeping track of the last price for financ
 
 ### Project Structure
 
-src/
-│
-├── main/
-│ ├── java/
-│ │ ├── com/
-│ │ │ ├── lastvalue/
-│ │ │ │ ├── demo/
-│ │ │ │ │ ├── entity/
-│ │ │ │ │ │ └── PriceRecord.java
-│ │ │ │ │ │ └── BatchRun.java
-│ │ │ │ │ ├── service/
-│ │ │ │ │ │ └── PriceService.java
-│ │ │ │ │ │ └── PriceServiceImpl.java
-│ │ │ │ │ ├── config/
-│ │ │ │ │ │ └── BatchConfig.java
-│ │ │ │ │ └── PriceServiceApplication.java
-│ │ └── resources/
-│ │ └── application.properties
-│
-├── test/
-│ ├── java/
-│ │ ├── com/
-│ │ │ ├── lastvalue/
-│ │ │ │ ├── demo/
-│ │ │ │ │ ├── service/
-│ │ │ │ │ │ └── PriceServiceImplTest.java
-│
-├── pom.xml
+![alt text](http://url/to/projectStructure.png)
 
 
 ### Service Endpoints and Methods
