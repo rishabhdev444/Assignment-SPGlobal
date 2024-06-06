@@ -41,7 +41,8 @@ This project implements a service for keeping track of the last price for financ
 
 ### Project Structure
 
-![alt text](http://url/to/projectStructure.png)
+![projectStructure](https://github.com/rishabhdev444/Assignment-SPGlobal/assets/53978955/be1e86b2-67f7-4b76-9190-ff9047905720)
+
 
 
 ### Service Endpoints and Methods
